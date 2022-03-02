@@ -1,0 +1,168 @@
+/*body{
+    font-family: 'Oswald', sans-serif;
+    
+}
+#name{
+    color: rgb(235, 69, 39);
+    font-size: 40px;
+}
+.link-btn{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, #ee5252d5, #ff0000);
+    color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    font-size: 19px;
+}
+
+.first-section{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: 85%;
+    
+}
+.second-section{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: 85%;
+    
+}
+section{
+    height: 400px;
+    padding-bottom: 200px;
+    padding-left: 30%;
+}
+
+.half-width{
+    width: 30%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width:100%;
+}*/
+body{
+    font-family: 'Oswald', sans-serif;
+    margin: 0%;
+}
+section{
+    height: 500px;
+    padding-bottom: 250px;
+}
+#name-color{
+    color: rgb(253, 7, 130);
+    font-size: 30px;
+}
+.link-btn{
+    background-color: red;
+    color: white;
+    border-radius: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    text-decoration: none;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+#imgg{
+    width: 100%;
+}
+#img-size{
+    width: 70%;
+    margin-top: 10%;
+    
+}
+#first-section{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#second-section{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#third-section{
+    height: 200px;
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 80%;
+}
+#last-section{
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: 80%;
+    height: 250px;
+    
+}
+#margin-top{
+    margin-top: 15%;
+    margin-left: -5%;
+    
+}
+#margin-first-section-div{
+    margin-top: 10%;
+}
+#text-center{
+    text-align: center;
+    margin-bottom: 60px;
+}
+.img-sizing{
+    width: 20%;
+    float: left;
+    margin-left: 20px;
+    padding-left: 13px;
+    
+}
+.half-width-img{
+    width: 30%;
+    float: left;
+    
+}
+#img-sizee{
+    width: 80%;
+    float: left;
+    margin-left: 17%;
+    padding-left: 9%;
+    
+}
+#btn{
+    width: 40%;
+    background-color: red;
+    padding: 20px;
+    border-radius: 8px;
+    text-align: center;
+    color: white;
+}
+#gmail{
+    font-size: 20px;
+    color: white;
+}
+#mess{
+    font-size: 15px;
+}
+#foun{
+    font-size: 15px;
+    font-weight: 400;
+}
+#last-div{
+    text-align: center;
+}
+#last-div2{
+    margin-left: 36%;
+}
+footer p{
+    text-align: center;
+    font-weight: 600;
+}
